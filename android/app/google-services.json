@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577701928689",
+    "project_id": "internalcamera-538a8",
+    "storage_bucket": "internalcamera-538a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577701928689:android:f8d8a38daa0d753b931350",
+        "android_client_info": {
+          "package_name": "com.example.internal_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO-r_4hJAZd4UxM24wt0Cyt_nSR1bki04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
